@@ -29,6 +29,7 @@ From: airl_lab/default/airl_env:bare_ci
    cd /git/sferes2/exp/
 
    #CLONEHERE
+   git clone https://gitlab.doc.ic.ac.uk/AIRL/research_projects/antoine_cully/minimal_experiment.git
 
 %runscript
     echo "Starting experiment"
